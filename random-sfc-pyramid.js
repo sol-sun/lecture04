@@ -1,7 +1,6 @@
 #!/usr/local/bin/env node
 
 
-
 var randomSFCPyramid = function(){
 // you can get it with npm.. => $ npm install mersenne
 var r  = require('mersenne');
