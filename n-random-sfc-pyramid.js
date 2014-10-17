@@ -19,7 +19,7 @@ var nRandomSFCPyramid = function(){
 	// or use defaults (Math.rand)
 	//var hoge = 1 + parseInt(Math.random() * 100);
 	
-	if (　isNaN(r_num) ){
+	if ( isNaN(r_num) ){
             return;
 	}
 	
